@@ -1,4 +1,4 @@
-<h1>Active directory Hoe Lab</h1>
+<h1>Active directory Hoem Lab</h1>
 
  Link [https://www.youtube.com/watch?v=2DxMUMJBwEY]<br>
  Note: Follow along with video for success....good luck!!!
