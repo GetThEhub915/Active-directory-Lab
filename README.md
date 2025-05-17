@@ -49,7 +49,7 @@ creating an account to log in with:  <br/>
 setting up Routing remote access  <br/>
 <img src="https://imgur.com/dVUqpFX.png" height="80%" width="80%" alt="Walk through"/>
 </p>
-after clicking propertys:  <br/>
+after clicking property:  <br/>
 <img src="https://imgur.com/USozSX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 Log back in to heck work  <br/>
