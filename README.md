@@ -52,7 +52,7 @@ setting up Routing remote access  <br/>
 after clicking property:  <br/>
 <img src="https://imgur.com/USozSX3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Log back in to heck work  <br/>
+Log back in to check work  <br/>
 <img src="https://imgur.com/N6aRLhB.png" height="80%" width="80%" alt="Walk through"/>
 </p>
 
