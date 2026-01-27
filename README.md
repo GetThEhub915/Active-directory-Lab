@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-In this lab I walkthrough how to create an Active Directory home lab environment, setup a Domain Controller, and connect to it with a client computer using any account you create in the Domain. 
+In this lab I walkthrough how to create an Active Directory home lab environment, setup a Domain Controller, and connect to it with a client(s) computer using any account you create in the Domain. 
 
 <h2>Languages and Utilities Used</h2>
 
